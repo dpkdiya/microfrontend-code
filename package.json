@@ -1,0 +1,9 @@
+{
+  "name": "microfrontend-example",
+  "private": true,
+  "workspaces": [
+    "mfe-host",
+    "mfe-header",
+    "mfe-products"
+  ]
+}
